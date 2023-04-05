@@ -1,0 +1,47 @@
+﻿<style type="text/css">
+
+.btnView
+{
+	
+	background-color: white !important; 
+	color: black !important;
+/*	padding: 2px !important; */
+    border: 3px solid #008CBA !important;
+    border-radius: 5px;
+   /* margin: 3px !important;*/
+	font-size: 12px !important;
+ /*	margin-bottom: 3px !important; */
+	cursor: pointer !important;
+	display: inline-block;
+	width: 20px !imporant;
+	height: 22px !important;
+	padding-bottom: 1px !important;
+	padding-top: 0px !important;
+	transition-duration: 0.5s;
+
+}
+
+
+.btnView:hover
+{
+	
+	background-color: #008CBA !important; 
+	color: white !important;
+/*	padding: 2px !important; */
+    border: 3px solid #008CBA !important;
+    border-radius: 5px;
+   /* margin: 3px !important;*/
+	font-size: 12px !important;
+ /*	margin-bottom: 3px !important; */
+	cursor: pointer !important;
+	display: inline-block;
+	width: 20px !imporant;
+	height: 22px !important;
+	padding-bottom: 1px !important;
+	padding-top: 0px !important;
+
+}
+
+
+
+</style>
